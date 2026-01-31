@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Anish : @anish-kompetenzen
+- 👋 Hi, I’m Anish : @anish-joe
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Mongo DB, Express JS, Node JS
 - 💞️ I’m looking to collaborate on React JS & SpringBoot
 - 📫 How to reach me : anishhtc1998@gmail.com
-- ⚡ Fun fact: @whitemagnet
