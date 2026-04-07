@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anish : @anish-joe
+- 👋 Hi, I’m Anish Joe : @anish-joe
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently developing a ReactJS-JavaSpringBoot Application social media App : Loop
 - 💞️ I’m looking to collaborate on React JS & SpringBoot
-- 🌐 Website - https://anishjoe.com
-- <img width="20" height="20" style="border-radius:'100px'" alt="image" src="https://github.com/user-attachments/assets/48e3adfb-9304-499e-89c2-9433d179d5db" /> LinkedIn - https://in.linkedin.com/in/anish-joe
-- 📫 How to reach me : anishhtc1998@gmail.com
+- 🌐 Website : https://anishjoe.com
+- <img width="20" height="20" style="border-radius:'100px'" alt="image" src="https://github.com/user-attachments/assets/48e3adfb-9304-499e-89c2-9433d179d5db" /> LinkedIn : https://in.linkedin.com/in/anish-joe
+- 📫 Email : anishhtc1998@gmail.com
