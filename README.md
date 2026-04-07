@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anish : @anish-joe
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently developing a ReactJS-JavaSpringBoot Application similar to Instagram
+- 🌱 I’m currently developing a ReactJS-JavaSpringBoot Application social media App : Loop
 - 💞️ I’m looking to collaborate on React JS & SpringBoot
 - 🌐 https://anishjoe.com
 - <img width="20" height="20" style="border-radius:'100px'" alt="image" src="https://github.com/user-attachments/assets/48e3adfb-9304-499e-89c2-9433d179d5db" /> https://in.linkedin.com/in/anish-joe
